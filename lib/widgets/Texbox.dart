@@ -14,7 +14,7 @@ class TextBox extends StatefulWidget {
     required this.labelText,
     required this.width,
     required this.height,
-    this.color =  const Color.fromARGB(255, 178, 212, 241),
+    this.color =  const Color.fromARGB(255, 235, 242, 247),
     this.outlineColor = const Color.fromARGB(255, 14, 37, 74),
     this.textColor = const Color.fromARGB(255, 14, 37, 74),
     this.isDropdown = false,
